@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MyGov Hackathon</string>
+    <string name="please_update_your_google_play_services">Please Update Your Google Play Services</string>
+    <string name="where_you_wanna_go">Where You Wanna go?</string>
+    <string name="find_me">Find me</string>
+    <string name="search">Search</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="title_activity_tabbed">tabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="enter_icon_name">Enter Icon Name</string>
+    <string name="markers">Add Marker</string>
+    <string name="login">login</string>
+    <string name="Name">name</string>
+    <string name="textViewName">textViewName</string>
+    <string name="TextView">TextView</string>
+    <string name="textViewAddress">textViewAddress</string>
+    <string name="qr">Scan QR Code</string>
+    <string name="text">Please Scan Your QRcode</string>
+    <string name="passengersportal">PASSENGERS PORTAL</string>
+    <string name="securityportal">securityportal</string>
+    <string name="login1">LOGIN</string>
+    <string name="button1">SCAN QR CODE</string>
+    <string name="securityportal1">Security Portal</string>
+    <string name="fdetails">Flight Details</string>
+    <string name="map">Map Navigation</string>
+    <string name="shop">Shop Offers</string>
+    <string name="title_activity_details">details</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="delete_marker">Delete Marker</string>
+    <string name="logins">Login</string>
+    <string name="name">Name</string>
+    <string name="names">Name</string>
+    <string name="add_marker">Add Marker</string>
+    <string name="delete_markers">Delete Marker</string>
+    <string name="shop_offers">Shop Offers</string>
+    <string name="welcome_to_chennai_airport">Welcome To Chennai Airport</string>
+    <string name="refresh">Refresh</string>
+    <string name="enter_the_booking_id_to_get_details">Enter The Booking Id To Get Details</string>
+    <string name="is">---</string>
+    <string name="enter_the_message_here">Enter The Message here</string>
+    <string name="enter_new_offer_here">Enter New Offer Here</string>
+    <string name="barcode">Scan your barcode</string>
+    <string-array name="iconList">
+        <item>Select A Icon</item>
+        <item>Shop</item>
+        <item>Book Shop</item>
+        <item>Cloth Shop</item>
+        <item>Coffee Shop</item>
+        <item>Gate</item>
+        <item>Money Exchange</item>
+        <item>Free Wifi</item>
+        <item>Gift Shop</item>
+        <item>Grocery</item>
+        <item>Food Stall</item>
+        <item>Washroom</item>
+    </string-array>
+</resources>

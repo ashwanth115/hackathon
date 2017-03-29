@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_8d5cde23304dabb8f4c90024db15742ace3f654a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_097e2effa884ec0bc52ff7a99ea51720abd231d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2470f92936ce0db1342aa495d843b37cd16a741c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_9f45592b10c45f8ecd334631dec2aa49765f6362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_64f636b44e1287d9deb7ae10d36eaa398383fb41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_91617a8880d138f529242b54784864fea77ca96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_50b40b48dca41c6e90badfbde849700124d7c651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_72b72e9fa80e023406b8ab48c1bac0063f27754c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_089cb4202733e753d9f27b56d8cdcf47de8bb3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_a74839131622c2356dfa3afa73856de1b12e1d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_65ba94cc04728433a1c2eaa2af191d13d04686f8.jar" />
+    </item>
+
+</items>

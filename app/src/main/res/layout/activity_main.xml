@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pushparaj.googlemaps.MainActivity"
+    android:background="#003366">
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/txtsearch"
+        android:background="#FFF"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:hint="@string/where_you_wanna_go" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtsearch"
+        android:text="@string/search"
+        android:layout_centerHorizontal="true"
+        android:onClick="searchString"
+        android:id="@+id/btnsearch"/>
+    <Button
+        android:layout_width="135dp"
+        android:layout_height="wrap_content"
+        android:text="@string/add_marker"
+        android:layout_below="@+id/txtsearch"
+        android:visibility="invisible"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:onClick="addClick"
+        android:id="@+id/btnadd"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_markers"
+        android:layout_below="@+id/txtsearch"
+        android:layout_toRightOf="@+id/btnsearch"
+        android:layout_alignParentRight="true"
+        android:textSize="12sp"
+        android:visibility="invisible"
+        android:onClick="deleteClick"
+        android:id="@+id/btndelete"/>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/btnsearch"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:id="@+id/mapFragment" />
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_marginTop="10dp"
+        android:hint="@string/enter_icon_name"
+        android:visibility="invisible"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/iconname" />
+    <Spinner
+        android:layout_width="300dp"
+        android:layout_height="22dp"
+        android:id="@+id/spinner"
+        android:layout_below="@+id/iconname"
+        android:visibility="invisible"
+        android:background="#fff"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"/>
+
+
+
+</RelativeLayout>

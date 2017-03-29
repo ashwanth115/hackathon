@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ashwanth/Documents/GoogleMaps/C:\\Users\\ashwanth\\AndroidStudioProjects\\GoogleMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/Users/ashwanth/Documents/GoogleMaps/C:\\Users\\ashwanth\\AndroidStudioProjects\\GoogleMaps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ashwanth/Documents/GoogleMaps/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ashwanth/Documents/GoogleMaps/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
